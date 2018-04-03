@@ -1,0 +1,33 @@
+{
+  "name": "tengxuncomic-biubiubiu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CSOneSevenZeroOne/tengxuncomic-biubiubiu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CSOneSevenZeroOne/tengxuncomic-biubiubiu/issues"
+  },
+  "homepage": "https://github.com/CSOneSevenZeroOne/tengxuncomic-biubiubiu#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "css-loader": "^0.28.11",
+    "html-loader": "^0.5.5",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.20.3",
+    "vue": "^2.5.16",
+    "vue-loader": "^14.2.2",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.4.1"
+  }
+ 
+}
